@@ -6,9 +6,9 @@ This project implements **AI-powered sustainability modules** that help business
 
 ---
 
-# 🎥 Demo Video
+## 🎥 Demo Video
 
-![Demo Video](demo.gif)
+<video src="screen-recording/screenrecorde.mp4" controls width="800"></video>
 
 **Watch the full demo recording**
 
